@@ -22,7 +22,6 @@ I am a Cyber Security specialist bridging the gap between network defense, syste
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/Audio_Production-000000?style=for-the-badge&logo=abletonlive&logoColor=white" alt="Audio Production" />
 </div>
 
 ---
@@ -37,7 +36,7 @@ I am a Cyber Security specialist bridging the gap between network defense, syste
 * **Algorithmic Efficiency:** Active research and implementation of core computer science theory, focusing on operating system scheduling algorithms and advanced data encryption techniques.
 
 #### 🎧 Project Gagan 
-* **Drumming** I am also a drummer for the band PROJECT GAGAN
+* **Drummer**for the band PROJECT GAGAN
 
 ---
 
