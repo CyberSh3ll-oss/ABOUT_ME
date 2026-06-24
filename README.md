@@ -37,7 +37,7 @@ I am a Cyber Security specialist bridging the gap between network defense, syste
 * **Algorithmic Efficiency:** Active research and implementation of core computer science theory, focusing on operating system scheduling algorithms and advanced data encryption techniques.
 
 #### 🎧 Project Gagan 
-* **Drummer**for the band PROJECT GAGAN
+* **Drummer** for the band PROJECT GAGAN
 
 ---
 
