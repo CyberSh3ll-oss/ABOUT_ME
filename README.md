@@ -42,5 +42,5 @@ I am a Cyber Security specialist bridging the gap between network defense, syste
 ---
 
 <div align="center">
-  <i>"Designing secure systems and Intelligence Gathering."</i>
+  <i>"Designing secure systems and Intelligence Gathering Techniques."</i>
 </div>
