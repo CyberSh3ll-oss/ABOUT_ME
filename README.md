@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Vaishnav</h1>
-  <p><b>Cyber Security Researcher | Network Analyst | Audio Engineer</b></p>
+  <p><b>Cyber Security Researcher | Network Analyst | Drummer</b></p>
 </div>
 
 ---
@@ -9,13 +9,11 @@
 
 I am a Cyber Security specialist bridging the gap between network defense, systems architecture, and open-source intelligence. Currently pursuing my B.Tech in Cyber Security (Class of 2028), my focus lies in building robust detection systems, analyzing low-level operating system mechanics, and researching cryptographic standards.
 
-Beyond the terminal, I operate as **dreadxmusic**, engineering aggressive rap vocals and atmospheric, sky-themed soundscapes for **Project Gagan**. I approach audio production with the same architectural rigor as software development—building complex, high-altitude sonic environments from the ground up.
-
 ---
 
 ### ▹ Technical Arsenal
 
-**Core Competencies:** Network Analysis, Threat Detection, OSINT, Systems Administration, Audio Architecture  
+**Core Competencies:** Network Analysis, Threat Detection, OSINT, Systems Administration, Cyber Espionage, CYBINT, Drumming
 **Security & Networking:** Wireshark, Nmap, Cryptography (AES, DES, Huffman Coding)  
 **Systems & Theory:** Linux (Arch, Ubuntu), OS Scheduling (FCFS, SJF, Priority), Memory Management  
 
@@ -36,14 +34,13 @@ Beyond the terminal, I operate as **dreadxmusic**, engineering aggressive rap vo
 * **Osintagram (Prototype):** Developing a targeted Open-Source Intelligence tool designed for data extraction and footprint analysis.
 
 #### 🔬 Academic Research & Theory
-* **Carbon Dating Mechanisms:** Currently authoring a thesis exploring the complex chronological mechanisms, decay models, and theoretical frameworks behind carbon dating. 
 * **Algorithmic Efficiency:** Active research and implementation of core computer science theory, focusing on operating system scheduling algorithms and advanced data encryption techniques.
 
-#### 🎧 Project Gagan & dreadxmusic
-* **Acoustic Engineering:** Producing high-fidelity, sky-themed musical projects. Focusing strictly on pure atmospheric acoustics and aggressive rap vocals, ensuring a clean, high-altitude aesthetic without relying on space/rocket tropes.
+#### 🎧 Project Gagan 
+* **Drumming** I am also a drummer for the band PROJECT GAGAN
 
 ---
 
 <div align="center">
-  <i>"Designing secure systems and engineering flawless audio."</i>
+  <i>"Designing secure systems and Intelligence Gathering."</i>
 </div>
