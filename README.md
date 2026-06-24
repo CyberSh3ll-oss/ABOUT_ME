@@ -1,33 +1,49 @@
 <div align="center">
-
-# ░▒▓ > SYS_INIT: VAISHNAV < ▓▒░
-
-**`[ TERMINAL_UPLINK_ESTABLISHED ]`**
-    
-*ALIAS:* **dreadxmusic** | *CLASSIFICATION:* Cyber Security / Network Analyst / Audio Architect
-
+  <h1>Vaishnav</h1>
+  <p><b>Cyber Security Researcher | Network Analyst | Audio Engineer</b></p>
 </div>
 
 ---
 
-### 💻 // CORE_IDENTITY
+### ▹ About Me
 
-> **STATUS:** `ONLINE`
-> **BASE_OF_OPERATIONS:** `BENGALURU_NODE`
+I am a Cyber Security specialist bridging the gap between network defense, systems architecture, and open-source intelligence. Currently pursuing my B.Tech in Cyber Security (Class of 2028), my focus lies in building robust detection systems, analyzing low-level operating system mechanics, and researching cryptographic standards.
 
-Executing life script... 
-Currently compiling my B.Tech in Cyber Security at Chinmaya Vishwa Vidhyapeeth University (ETA: `2028.06`). I operate at the intersection of network defense, open-source intelligence, and aggressive sonic landscapes. Whether I am analyzing packet captures or dropping heavy rap frequencies, I build systems from the ground up.
+Beyond the terminal, I operate as **dreadxmusic**, engineering aggressive rap vocals and atmospheric, sky-themed soundscapes for **Project Gagan**. I approach audio production with the same architectural rigor as software development—building complex, high-altitude sonic environments from the ground up.
 
 ---
 
-### 📊 // SKILL_MATRIX
+### ▹ Technical Arsenal
 
-```text
-> EXECUTING SKILL_DIAGNOSTIC.sh...
+**Core Competencies:** Network Analysis, Threat Detection, OSINT, Systems Administration, Audio Architecture  
+**Security & Networking:** Wireshark, Nmap, Cryptography (AES, DES, Huffman Coding)  
+**Systems & Theory:** Linux (Arch, Ubuntu), OS Scheduling (FCFS, SJF, Priority), Memory Management  
 
-[█████████░] LINUX_OS         (Arch, Ubuntu, System Admin)
-[████████░░] SCRIPTING        (Python, BeautifulSoup, Requests)
-[████████░░] SEC_TOOLS        (Wireshark, Nmap, OSINT)
-[███████░░░] CS_THEORY        (OS Scheduling, Memory Management)
-[█████████░] CRYPTOGRAPHY     (AES, DES, Huffman Coding)
-[██████████] AUDIO_ENGINE     (Music Prod, Rap, Vocal Processing)
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Audio_Production-000000?style=for-the-badge&logo=abletonlive&logoColor=white" alt="Audio Production" />
+</div>
+
+---
+
+### ▹ Featured Architecture & Research
+
+#### 🛡️ Threat Detection & OSINT
+* **Phishing Website Detection Engine:** Engineered a robust detection system leveraging Python, BeautifulSoup, and Requests to parse, analyze, and neutralize malicious web environments.
+* **Osintagram (Prototype):** Developing a targeted Open-Source Intelligence tool designed for data extraction and footprint analysis.
+
+#### 🔬 Academic Research & Theory
+* **Carbon Dating Mechanisms:** Currently authoring a thesis exploring the complex chronological mechanisms, decay models, and theoretical frameworks behind carbon dating. 
+* **Algorithmic Efficiency:** Active research and implementation of core computer science theory, focusing on operating system scheduling algorithms and advanced data encryption techniques.
+
+#### 🎧 Project Gagan & dreadxmusic
+* **Acoustic Engineering:** Producing high-fidelity, sky-themed musical projects. Focusing strictly on pure atmospheric acoustics and aggressive rap vocals, ensuring a clean, high-altitude aesthetic without relying on space/rocket tropes.
+
+---
+
+<div align="center">
+  <i>"Designing secure systems and engineering flawless audio."</i>
+</div>
