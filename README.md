@@ -29,6 +29,7 @@ I am a Cyber Security specialist bridging the gap between network defense, syste
 ### ▹ Featured Architecture & Research
 
 #### 🛡️ Threat Detection & OSINT
+* **God's Eye Framework:** Co-architected an advanced, Python-based OSINT and network auditing command-line framework. The system centralizes reconnaissance workflows by automating Kali Linux toolsets (Nmap, Amass, Zphisher) and features "God's Fix," a custom network rollback mechanism.
 * **Phishing Website Detection Engine:** Engineered a robust detection system leveraging Python, BeautifulSoup, and Requests to parse, analyze, and neutralize malicious web environments.
 * **Osintagram (Prototype):** Developing a targeted Open-Source Intelligence tool designed for data extraction and footprint analysis.
 
