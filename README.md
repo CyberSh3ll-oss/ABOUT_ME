@@ -13,7 +13,7 @@ I am a Cyber Security specialist bridging the gap between network defense, syste
 
 ### ▹ Technical Arsenal
 
-**Core Competencies:** Network Analysis, Threat Detection, OSINT, Systems Administration, Cyber Espionage, CYBINT, Drumming
+**Core Competencies:** Network Analysis, Threat Detection, OSINT, Systems Administration, Cyber Espionage, CYBINT,
 **Security & Networking:** Wireshark, Nmap, Cryptography (AES, DES, Huffman Coding)  
 **Systems & Theory:** Linux (Arch, Ubuntu), OS Scheduling (FCFS, SJF, Priority), Memory Management  
 
