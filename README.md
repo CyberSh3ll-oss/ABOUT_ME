@@ -321,7 +321,7 @@ Let's secure the future, one packet at a time.
 
 ```diff
 - "The quieter you become, the more you are able to hear." — Kali Linux
-+ "The best offense is intelligence. The best defense is intelligence." — Vaishnav
++ "By way of deception, thou shalt do war.." — Vaishnav
 ```
 
 <sub>⚡ <i>System secured · Connection terminated · Stay paranoid.</i> ⚡</sub>
